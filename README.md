@@ -1,4 +1,4 @@
 alt_processing API 
 
-[Docs](https://altyntsev.github.io/)
+[Documentation](https://altyntsev.github.io/)
 
